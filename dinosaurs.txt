@@ -1,0 +1,13 @@
+4
+5
+[TREX1, TREX2, TREX3, TREX4, TREX5]
+[2, 0, 2, 4, 4]
+[4, 2, 4, 3, 4]
+[1, 2]
+[TREX2, TREX3]
+[0, 2]
+[2, 4]
+[2, 6]
+[Bird, Bird]
+[Playwithwater, ListentoMusic]
+[Walk, Swim]
